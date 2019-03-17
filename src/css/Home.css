@@ -1,0 +1,23 @@
+
+.main {
+    width: 'auto';
+    display: 'block';
+    margin-Left: 3;
+    margin-Right: 3;
+  };
+  .paper {
+    margin-Top:8;
+    display: 'flex';
+    flex-Direction: 'column';
+    align-Items: 'center';
+  };
+  .avatar {
+    margin: 1,
+  };
+  .form {
+    width: '100%';
+    margin-Top: 1;
+  };
+  .submit {
+    margin-Top: 3;
+  };
